@@ -1,3 +1,6 @@
+# stocks-app
+Trying to connect with a 3rd party api for stocks data
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
